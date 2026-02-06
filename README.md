@@ -409,4 +409,3 @@ I'm ready to generate your custom prompt. Provide your requirement in any of the
 Tell me what prompt you need, and I'll generate a production-ready template with full agentic structure, quality checks, and usage guidance.
 
 Format: Just describe your need naturally - I'll handle the analysis and structure design. 👇
-```
