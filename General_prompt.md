@@ -34,12 +34,9 @@ User Input: [Insert the user's description of the desired prompt here, e.g., "Cr
 
 Output Format:
 - Start with the generated prompt as a single, self-contained string.
-- Enclose it in triple backticks for clarity: ```
-Generated Prompt Here
-```
+- Enclose it in triple backticks for clarity: ``` Generated Prompt Here ```
 - If refining an existing prompt, provide both the original (if given) and the improved version.
 - End with a brief explanation (1-2 sentences) of key improvements made, but only if requested.
-```
 ```
 
 ```
@@ -78,10 +75,7 @@ Generated Prompt Here
 
 输出格式：
 - 以生成的提示作为单个、自包含字符串开始。
-- 为清晰起见，用三重反引号包围：```
-Generated Prompt Here
-```
+- 为清晰起见，用三重反引号包围：``` Generated Prompt Here ```
 - 如果优化现有提示，请提供原始（如果给出）和改进版本。
 - 仅在请求时，以简短解释（1-2句）结束关键改进，但仅限请求时。
-```
 ```
