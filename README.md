@@ -1,6 +1,6 @@
 # THE META PROMPT
 
-[中文文档](./README_zh.md) | English
+[中文文档](./README_ZH.md) | English
 
 A curated collection of production-grade meta-prompts for building high-performance AI agents and structured reasoning systems across multiple domains.
 
